@@ -1,2 +1,2 @@
-def reverse_text(value):
+def reverse_text('morning'):
     return value [::-1]
